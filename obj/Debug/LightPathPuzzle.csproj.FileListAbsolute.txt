@@ -1,0 +1,7 @@
+C:\Users\akats\source\repos\LightPathPuzzle\bin\Debug\LightPathPuzzle.exe.config
+C:\Users\akats\source\repos\LightPathPuzzle\bin\Debug\LightPathPuzzle.exe
+C:\Users\akats\source\repos\LightPathPuzzle\bin\Debug\LightPathPuzzle.pdb
+C:\Users\akats\source\repos\LightPathPuzzle\obj\Debug\LightPathPuzzle.csproj.AssemblyReference.cache
+C:\Users\akats\source\repos\LightPathPuzzle\obj\Debug\LightPathPuzzle.csproj.CoreCompileInputs.cache
+C:\Users\akats\source\repos\LightPathPuzzle\obj\Debug\LightPathPuzzle.exe
+C:\Users\akats\source\repos\LightPathPuzzle\obj\Debug\LightPathPuzzle.pdb
